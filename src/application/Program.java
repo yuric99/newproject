@@ -1,4 +1,4 @@
-package newproject;
+package application;
 
 public class Program {
 
